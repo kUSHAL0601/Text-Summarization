@@ -3,21 +3,21 @@
 ## Features and their weights:
 | Features | Learned Weights| Comment |
 | ----------- | ---------- | --------------------------- |
-| No. of pronouns |  -0.031 |  Pronouns indicate dependency on other sentences |
-| No. of verbs |  0.035 | Verbs indicate importance of sentence. More verbs -> more events |
-| No. of Named entities |  0.229 | Most important feature. Signifies both importance and Independence |
-| length of sentence |  0.079 |  Longer sentences are better |
-| Position of sentence in document | -0.039 |  Sentences occuring early in the document are better |
-| No. of stop words |  -0.088 |  More stop words, less importance |
+| No. of pronouns |  -0.014409942 |  Pronouns indicate dependency on other sentences |
+| No. of verbs |  -0.0043992093 | A lot of verbs are auxillary |
+| No. of Named entities |  0.22817455 | Most important feature. Signifies both importance and Independence |
+| length of sentence |  0.074055605 |  Longer sentences are better |
+| Position of sentence in document | -0.029169073 |  Sentences occuring early in the document are better |
+| No. of stop words |  -0.07974424 |  More stop words, less importance |
 
 ## Results on Cheng data: 
 <b>(scores mentioned are based on truth labels and not ROUGE)</b>
 
 | Measure | Percentage|
 | --------------- | ----------------- | 
-| Precision | 38% |
-| Recall | 85.6% |
-| F1 score | 52.8% |
+| Precision | 37.4% |
+| Recall | 82.4% |
+| F1 score | 51.48% |
 
 ## Sample Output
 
