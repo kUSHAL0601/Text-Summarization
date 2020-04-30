@@ -1,0 +1,15 @@
+-- long a veteran of the highways of rural @entity5 , @entity2 's self - driving car is working on becoming safer in the city
+over the past year or so , @entity2 has been fine - tuning how the software running its fleet of automated vehicles handles the complexities of stop - and - go driving in heavily populated areas
+" a mile of city driving is much more complex than a mile of freeway driving , with hundreds of different objects moving according to different rules of the road in a small area , " @entity12 , the head of @entity2 's self - driving - car project , said monday in a blog post
+@entity12 said engineers have improved the cars ' software to recognize situations like pedestrian traffic , buses , stop signs held by crossing guards and hand signals made by cyclists
+and , he says , self - driving cars have the potential to handle all of that even better than we do
+" a self - driving vehicle can pay attention to all of these things in a way that a human physically ca n't -- and it never gets tired or distracted , " @entity12 wrote
+" as it turns out , what looks chaotic and random on a city street to the human eye is actually fairly predictable to a computer
+" the @entity0 10 : meet the future of driving since 2011 , when self - driving vehicles became street - legal in @entity50 , @entity2 has logged nearly 700,000 miles with the cars , mostly on highways
+the only reported accidents have happened when one of the cars was being driven by a person , or they were the fault of another driver
+autonomous cars are also now legal in @entity5 , @entity60 and @entity61 , although all states still require a human driver behind the wheel
+@entity2 has been testing the cars around its @entity67 headquarters in suburban @entity68 , @entity5
+there 's more to learn before testing them in another city , @entity12 wrote , " but thousands of situations on city streets that would have stumped us two years ago can now be navigated autonomously
+" the cars ' technology includes a laser radar system and a laser - based range finder that lets software create detailed @entity81 maps of the surroundings
+in a @entity86 video also posted monday , one of the cars is shown recognizing and changing lanes in a construction zone , negotiating a railroad crossing and making a right turn at an intersection crowded with cars , cyclists and pedestrians
+" with every passing mile we 're growing more optimistic that we 're heading toward an achievable goal -- a vehicle that operates fully without human intervention , " @entity12 wrote .

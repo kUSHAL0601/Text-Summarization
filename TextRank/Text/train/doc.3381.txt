@@ -1,0 +1,58 @@
+today , the @entity0 is conducting offensive cyberwar actions around the world
+more than passively eavesdropping , we 're penetrating and damaging foreign networks for both espionage and to ready them for attack
+we 're creating custom - designed @entity10 weapons , pre-targeted and ready to be " fired " against some piece of another country 's electronic infrastructure on a moment 's notice
+this is much worse than what we 're accusing @entity18 of doing to us
+we 're pursuing policies that are both expensive and destabilizing and are n't making the @entity10 any safer
+we 're reacting from fear , and causing other countries to counter-react from fear
+we 're ignoring resilience in favor of offense
+welcome to the cyberwar arms race , an arms race that will define the internet in the 21st century
+@entity28 20 , issued last october and released by @entity29 , outlines @entity0 cyberwar policy
+most of it is n't very interesting , but there are two paragraphs about " @entity35 , " or @entity35 , that are intriguing : " @entity36 can offer unique and unconventional capabilities to advance @entity0 national objectives around the world with little or no warning to the adversary or target and with potential effects ranging from subtle to severely damaging
+the development and sustainment of @entity35 capabilities , however , may require considerable time and effort if access and tools for a specific target do not already exist
+" the @entity52 shall identify potential targets of national importance where @entity35 can offer a favorable balance of effectiveness and risk as compared with other instruments of national power , establish and maintain @entity35 capabilities integrated as appropriate with other @entity0 offensive capabilities , and execute those capabilities in a manner consistent with the provisions of this directive
+" opinion : cyber arms control ? forget about it these two paragraphs , and another paragraph about @entity35 , are the only parts of the document classified " top secret
+" and that 's because what they 're saying is very dangerous
+cyberattacks have the potential to be both immediate and devastating
+they can disrupt communications systems , disable national infrastructure , or , as in the case of @entity83 , destroy nuclear reactors ; but only if they 've been created and targeted beforehand
+before launching cyberattacks against another country , we have to go through several steps
+we have to study the details of the computer systems they 're running and determine the vulnerabilities of those systems
+if we ca n't find exploitable vulnerabilities , we need to create them : leaving " back doors " in hacker speak
+then we have to build new cyberweapons designed specifically to attack those systems
+sometimes we have to embed the hostile code in those networks , these are called " logic bombs , " to be unleashed in the future
+and we have to keep penetrating those foreign networks , because computer systems always change and we need to ensure that the cyberweapons are still effective
+like our nuclear arsenal during the @entity110 , our cyberweapons arsenal must be pretargeted and ready to launch
+that 's what @entity112 directed the @entity114 to do
+we can see glimpses in how effective we are in @entity29 's allegations that the @entity117 is currently penetrating foreign networks around the world : " we hack network backbones -- like huge internet routers , basically -- that give us access to the communications of hundreds of thousands of computers without having to hack every single one
+" the @entity117 and the @entity114 are basically the same thing
+they 're both at @entity127 in @entity128 , and they 're both led by gen. @entity129
+the same people who hack network backbones are also building weapons to destroy those backbones
+at a march @entity135 briefing , @entity129 boasted of creating more than a dozen offensive cyber units
+longtime @entity117 watcher @entity137 reached the same conclusion in his recent profile of @entity129 and the @entity114 ( written before the @entity29 revelations )
+he discussed some of the many cyberweapons the @entity0 purchases : " according to @entity146 ' @entity145 and @entity147 , @entity144 also offers its intelligence clients -- agencies like @entity114 , the @entity117 , the @entity150 , and @entity152 intelligence -- a unique map showing them exactly where their targets are located
+dubbed @entity155 , the map displays the geolocation and digital address of basically every device connected to the internet around the world , providing what 's called network situational awareness
+the client locates a region on the password - protected web - based map , then picks a country and city -- say , @entity168 , @entity18
+next the client types in the name of the target organization , such as the @entity173 's no. 3 @entity172 , which is responsible for computer security -- or simply enters its address , 6 @entity177
+the map will then display what software is running on the computers inside the facility , what types of malware some may contain , and a menu of custom - designed exploits that can be used to secretly gain entry
+it can also pinpoint those devices infected with malware , such as the @entity191 worm , as well as networks turned into botnets and zombies -- the equivalent of a back door left open ... " the buying and using of such a subscription by nation - states could be seen as an act of war
+' if you are engaged in reconnaissance on an adversary 's systems , you are laying the electronic battlefield and preparing to use it ' wrote @entity208 , a former @entity117 director for information assurance , in a @entity211 report on cyberwarfare
+' in my opinion , these activities constitute acts of war , or at least a prelude to future acts of war
+' the question is , who else is on the secretive company 's client list ? because there is as of yet no oversight or regulation of the cyberweapons trade , companies in the cyber-industrial complex are free to sell to whomever they wish
+" it should be illegal , ' said the former senior intelligence official involved in cyberwarfare
+' i knew about @entity234 when i was in intelligence
+the intelligence community did n't like it , but they 're the largest consumer of that business
+' " that 's the key question : how much of what the @entity0 is currently doing is an act of war by international definitions ? already we 're accusing @entity18 of penetrating our systems in order to map " military capabilities that could be exploited during a crisis
+" what @entity250 and @entity29 describe is much worse , and certainly @entity18 , and other countries , are doing the same
+all of this mapping of vulnerabilities and keeping them secret for offensive use makes the @entity10 less secure , and these pre-targeted , ready - to - unleash cyberweapons are destabalizing forces on international relationships
+rooting around other countries ' networks , analyzing vulnerabilities , creating back doors , and leaving logic bombs could easily be construed as an act of war
+and all it takes is one over-achieving national leader for this all to tumble into actual war
+it 's time to stop the madness
+yes , our military needs to invest in cyberwar capabilities , but we also need international rules of cyberwar , more transparency from our own government on what we are and are not doing , international cooperation between governments and viable cyberweapons treaties
+yes , these are difficult
+yes , it 's a long slow process
+yes , there wo n't be international consensus , certainly not in the beginning
+but even with all of those problems , it 's a better path to go down than the one we 're on now
+we can start by taking most of the money we 're investing in offensive cyberwar capabilities and spend them on national cyberspace resilience
+@entity297 , mutually assured destruction , made sense because there were two superpowers opposing each other
+on the @entity10 there are all sorts of different powers , from nation - states to much less organized groups
+an arsenal of cyberweapons begs to be used , and , as we learned from @entity83 , there 's always collateral damage to innocents when they are
+we 're much safer with a strong defense than with a counterbalancing offense .

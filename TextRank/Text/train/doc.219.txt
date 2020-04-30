@@ -1,0 +1,11 @@
+@entity1 , @entity0 -- @entity3 of the brain are very rare and comprise less than 1 per cent of all brain tumors
+teratomas have been the subject of intense fascination among scientists because of their sometimes strange qualities -- some have been reported to contain hair , teeth , bone and , very rarely , more complex organs such as eyeballs
+thoughts about the origin of these tumors have attracted much debate
+@entity2 spoke with dr. @entity21 , senior neurosurgeon at @entity22 , in @entity23 , @entity24 , about the tumors sometimes known as " the monsters "
+he explained some quick facts : " @entity3 " comes from the @entity29 word " teraton , " meaning " monster "
+teratomas are seen most commonly in children and young adults
+teratomas are made up of tissue from all three germ layers -- mesoderm , ectoderm , and endoderm -- that occur during the formation of an embryo
+although teratomas can occur during embryonic development , most arise much later in life
+teratomas occur most often in the midline of the brain , therefore often obstructing and putting pressure on critical areas of the brain
+this can lead to loss of basic functions , but this loss can be temporary -- until the tumor is removed or reduced in size
+teratomas are commonly very solid and rubbery making them resistant to dissection with standard instruments .

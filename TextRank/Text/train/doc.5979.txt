@@ -1,0 +1,7 @@
+-- @entity4 presidential candidate @entity3 was carjacked and beaten late thursday as he was returning from a conference , his campaign manager said
+@entity3 was being driven on a highway when a car carrying masked gunmen intercepted him , said @entity9 , the campaign manager
+the suspects pulled the driver out of the car and beat him with their guns
+@entity3 tried to intervene and he was also beaten , @entity9 said
+the gunmen then stole the car and fled
+@entity3 was taken to a hospital and was in an intensive care unit because of a head injury , the campaign manager said
+@entity3 , a former member of the @entity20 , announced his candidacy last year in the presidential election scheduled for june .

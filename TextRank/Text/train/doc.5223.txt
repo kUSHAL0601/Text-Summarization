@@ -1,0 +1,7 @@
+-- @entity1 , a @entity2 - based food supplier for six retail chain stores , has announced the recall of grape tomatoes produced by a grower who said the vegetables might be contaminated with salmonella
+the recall applies to 29 brand - packaged salads sold at @entity13 's , @entity14 's , @entity15 , @entity16 , @entity17 and @entity18 , the company said in a statement monday
+the affected products have expiration dates ranging from april 27 to may 9 , according to the news release
+the recall applies to 13 states including @entity24 , @entity2 , @entity25 , @entity26 , @entity27 , @entity28 , @entity29 , @entity30 , @entity31 , @entity32 , @entity33 , @entity34 and @entity35 , according to a spreadsheet attached to the news release
+@entity38 is a form of bacteria found in food that can cause serious illness and even death if ingested
+@entity1 has urged consumers not to eat these products and to return them to where they were purchased for full refunds
+@entity1 said customers with questions should call the company at 209 - 835 - 6300 or contact the @entity50 or the @entity52 @entity51 .

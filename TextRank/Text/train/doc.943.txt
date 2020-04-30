@@ -1,0 +1,33 @@
+-- airports are n't exactly stress - free zones -- not yet at least
+but it 's certainly something airport managers are working on
+still , all the spas , yoga studios and movie cinemas in the world ca n't detract from the main source of travel anxiety : grueling lines
+it 's an irksome feature that may soon become a relic , thanks to the advent of mobile tracking technology
+@entity17 recently became the first in the world to track passenger movements in real time , from the parking lot to departure gates
+" the whole idea is to get better analytics of passenger flow
+really , it 's only because we want to know better where bottlenecks form in the airport during rush hour , " says @entity27 , vice president and chief information officer at @entity29 , which manages the airport
+passengers can meanwhile get updates about their flight status , bookmark where they parked ( so they can find their car after their return flight ) and chart how long it will take to get through security
+once inside , when they pass partnered shops , they can get pinged with offers
+while receiving updates directly to one 's phone may seem intrusive , @entity27 is adamant that the system does n't collect any personal information
+rather , it uses @entity51 and @entity53 routers to collect unique identifier numbers ( or @entity56 addresses ) , and only from devices with the @entity53 settings turned on
+" the @entity56 addresses we use are scrambled , which means no one can be traced , " he says
+@entity61 makes use of drone inspections @entity61 is trialing similar technology at @entity65 , @entity66 and @entity69 @entity68 airports , also using @entity70
+the carrier is starting small -- placing the devices at baggage drop offs and security areas
+the @entity61 app also uses the technology to alert passengers to ready their documents at key points
+though still in its early stages , @entity81 , @entity61 's head of digital , anticipates it could have father - reaching uses
+" in time , we could see applications supporting individual challenges , like when a customer needs to be in a different location because they are carrying skis , or are n't carrying any hold luggage , " he says
+the @entity95 low - cost carrier has been at the forefront of utilizing the newest technology
+in may , it started trialing inspection by drone on its fleet of @entity102 and @entity104 planes
+the airline is also looking into the use of virtual reality glasses to allow engineers and pilots to capture pictures of potential issues , and send them directly back to base
+" it 's another good example of how we 're applying new technologies to our business to help us be more effective and efficient , " says @entity81
+passengers need power to opt out not everyone is comfortable with the new technology
+" who would n't be creeped out by the idea of having your phone tracked ? if i tell you someone 's tracking you , and do n't tell you why , of course you 'd be upset , " says @entity126 , executive director and co-chair of the @entity129 - based think tank @entity128
+he adds that , contrary to how it may seem , airport tracking is kept pretty general
+" it 's not like it reports , ' hey , this phone belongs to the guy with blue glasses and a shabby suitcase
+' it 's ' 38,000 devices were in this location between these hours
+' it 's critical for airports and retailers to demystify this technology 's uses for users
+" transparency is key , says @entity126 , and airports need to make sure to alert passengers to the when , how and why of this technology , and provide them with an option to opt out -- which both @entity155 do
+passengers who do n't wish to be tracked can either switch off @entity53 on their devices , or provide their @entity56 address to walkbase.com and smart - places.org
+( in doing so , the tracking systems knows to ignore the address in the future
+) mainly , though , he recognizes the many potential uses of this technology at the airport
+" an airport is the type of place where you probably do want to get pinged about gate changes , or find out where you can get a cup of coffee once you 're checked in , or information on where the gate is and how much time it will take to get to it , " he says
+" it 's a big space , and anything the venue can do to help me navigate it easily and quickly is useful

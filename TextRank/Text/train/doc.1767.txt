@@ -1,0 +1,21 @@
+-- @entity1 has started to roll out a new version of its messenger app for @entity4 that only requires a name and a phone number , not an actual @entity1 account , to sign up
+although the new @entity9 app is only available in a handful of countries for now -- @entity13 , @entity14 , @entity15 , @entity16 and @entity17 -- it will eventually roll out to the @entity18 and elsewhere , allowing users to chat with their phone contacts even if they 're not using @entity1
+this news has set the tech world atwitter with proclamations that the new messenger is an assault on the lowly text message ( including one such proclamation from @entity1 itself )
+it 's a nice thought , at least
+given that a single text to your neighbor can cost more than a data transmission from @entity33 , who would n't relish the idea of wireless carriers getting their comeuppance ? in reality , though , standard sms has a lot going for it , and will likely weather all kinds of assaults , especially one from @entity1
+for one thing , @entity9 faces the same adoption hurdle as other internet - based messaging apps like @entity46 and @entity47 : it requires a conscious decision not to use traditional sms
+with @entity9 , you must first consider whether the recipient has @entity1 installed , and is set up to receive notifications for new messages
+then , you must commit to using the @entity24 app instead of your phone 's built - in sms functionality
+once you do that , the conversation is locked into @entity1 unless you have one of the select @entity4 phones that can integrate regular text messages
+that 's a lot to consider compared to the standard sms , which is guaranteed to reach and alert the recipient as long as you have the right phone number
+to truly threaten the text message , @entity9 needs the kind of tight smartphone integration found in @entity71 's @entity70 , which automatically replaces standard text messages between any two @entity74 users
+that 's not really possible unless @entity1 starts making its own smartphones
+in lieu of tighter smartphone integration , @entity1 simply has to compete with similar services that are already well - established
+as @entity81 points out , competitor @entity46 is already a top 5 messaging app in 141 countries and handles 10 billion messages per day
+( compare that to 7.8 trillion regular text messages sent in 2011 , according to @entity87 , for an average of 21 billion messages per day
+) competition is good , but in this case it means users will be fragmented across multiple services that ca n't talk to one another
+ideally , these competing services would somehow find a way to work with each other , so a @entity1 user could send a message to someone who uses @entity46 or @entity47
+it sounds crazy , but considering that wireless carriers found a way to make it work with @entity38 , tech companies should be able to figure out a solution
+i acknowledge that the need for sms alternatives is more desperate outside the @entity18 , where the price per message can be cost - prohibitive
+but in the land of all - you - can - eat messaging , if you really need to reach someone , @entity38 remains the most reliable option , and @entity9 only poses a minor threat
+&copy 2012 @entity0 time is a registered trademark of @entity0 used with permission .

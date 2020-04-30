@@ -1,0 +1,4 @@
+@entity0 , @entity1 -- a suicide bomber attacked a shopping center in @entity0 on monday afternoon killing at two people , officials said
+the attack took place at the @entity10 shopping mall , said police spokesman @entity11
+he said a guard at the mall was killed , while another was wounded
+the second fatality was a civilian , said @entity18 , head of the central hospital .

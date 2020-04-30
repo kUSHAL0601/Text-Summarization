@@ -1,0 +1,1 @@
+@ highlight @entity1 was crowned @entity2 in @entity3 in 2007

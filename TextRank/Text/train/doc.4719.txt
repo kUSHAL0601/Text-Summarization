@@ -1,0 +1,35 @@
+for years , the protocol for treating possible concussions on a football field has been this : after a player takes a hard hit to the head , a coach or trainer examines him to assess the severity of the impact and his readiness to return to the field
+but a visual inspection only reveals so much
+what if there were data that could help detect concussions in real time ? now there are
+a wave of new technology , embedded in football helmets , aims to measure the force of on - field collisions and send alerts when a player 's health may be in danger
+" we want to protect players as best we can , " said @entity29 , head of product development and management at @entity32 , the @entity34 ' leading maker of football helmets , which has embraced these new head - impact systems
+" it 's a way of keeping your players healthy
+you can keep your star player healthy , and keep your star player playing more , " he said
+" that 's the way i 'd look at it if i was a coach
+" head injuries in football have become a hot - button issue in recent years , from youth leagues to the @entity52
+thousands of former pro players -- many with dementia , alzheimer 's disease , parkinson 's disease and other brain disorders -- have sued the @entity52 , claiming the league knew about the long - term health risks associated with head trauma
+@entity32 , whose helmets were worn by two - thirds of @entity52 players last season , was named as a defendant in many of these lawsuits
+meanwhile , more parents are voicing concerns about letting their sons play football amid a study suggesting that high school athletes are more vulnerable to concussions than older players
+" ten or 15 years ago concussions were n't thought of the same way as they are now , " @entity29 said
+" they 're being taken much more seriously ... and not just shrugged off as ' being shook up ' on the field
+" seeing an opportunity , manufacturers are producing a growing list of products marketed as " head impact sensors , " small devices that fit inside the helmet and trigger a warning when a player sustains an especially hard blow
+these products have names like @entity93 , @entity94 and @entity96 's @entity95 , and they 're pitched as an extra set of eyes on the playing field
+now @entity32 is looking to incorporate such sensors into the helmet itself
+the company 's newest helmet , the @entity105 , is the first designed from the ground up to include a polymer - film lining that develops a charge when impact pressure is applied
+the helmet 's crown contains a flexible panel that compresses upon impact , reducing the force of collisions
+meanwhile , the helmet can be fitted with sensors -- @entity32 's @entity119 system , launched last year -- that send wireless alerts to handheld devices on the sidelines , telling coaches when a player has sustained an unusually forceful hit , or series of hits , to the head
+when equipped this way , the helmet is " an information - gathering tool , " said @entity29 , who tests helmets at @entity32 's lab in @entity135 , @entity136 , outside @entity137
+a @entity32 spokeswoman said the @entity105 helmet will hit the market this summer in time for the 2014 football season
+such impact - sensing technology is not without controversy , however
+tests of head - impact sensors , conducted last year before @entity146 cameras , have suggested potential problems
+some helmets fitted with the sensors failed to register alerts even after being dropped from five feet or higher , an impact that could easily cause a concussion
+doctors have expressed concerns that inaccurate sensors could give players a false sense of security
+" these technologies can be useful if used cautiously , as long as you do n't overinterpret what they mean , " dr. @entity159 , director of the @entity161 clinic , said last year
+" it could be really dangerous to rely on this too much
+" @entity32 and other manufacturers are quick to point out that their products do n't diagnose concussions or any other injury
+they say their devices do give coaches and trainers additional criteria that can help in determining whether a player should come out of a game
+@entity29 believes the @entity105 helmet will have additional safety benefits
+" it could help identify players that are striking their head too often
+a lot of multiple - impact alerts probably means a player is using their head more than they should , and there 's probably an opportunity to coach them not to do that , " he said
+" and that in the end can protect them better
+it can make the game safer

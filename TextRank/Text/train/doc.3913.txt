@@ -1,0 +1,11 @@
+@entity0 won the @entity1 for fiction wednesday night for " the @entity3
+" each year the @entity4 presents awards to winners in four categories : fiction , nonfiction , poetry and young people 's literature
+the four winners were announced in a ceremony in @entity15 hosted by @entity16 , co-host of @entity18 's " @entity17
+" @entity19 won the nonfiction award for " the unwinding : an @entity22
+" @entity23 won the poetry award for " @entity25 : poems , " while @entity27 won the young people 's literature award for " @entity30
+" established in 1950 , the @entity1 is one of the most prestigious literary awards in the @entity33
+past recipients include @entity35 , @entity36 , @entity37 and @entity38
+the winners were narrowed down from a pool of 1,432 submissions
+a five - judge panel of writers , literary critics and booksellers in each category came up with a list of 10 titles announced in september and narrowed it down to five finalists in october
+among this year 's finalists were journalists , historians , @entity55 winners and past @entity1 winners and finalists , including @entity58 , who won the @entity1 in 1974 for " @entity59 , " and @entity60 , whose debut novel " @entity62 " was a 2008 @entity1 finalist
+here is a list of this year 's finalists : fiction @entity60 , " @entity67 " @entity68 , " @entity69 " @entity0 , " the @entity3 " ( winner ) @entity58 , " @entity71 " @entity72 , " @entity73 " nonfiction @entity75 , " book of ages : the @entity77 of @entity78 " @entity79 , " @entity81 's @entity80 : @entity83 women in the @entity84 " @entity19 , " the unwinding : an @entity22 " ( winner ) @entity87 , " @entity88 : @entity89 and @entity90 in @entity91 , 1772 - 1832 " @entity92 , " going @entity93 : @entity94 , @entity95 , & the @entity96 " poetry @entity98 , " @entity99 " @entity100 , " @entity101 " @entity102 , " @entity103 " @entity104 , " @entity105 " @entity23 , " @entity25 : poems " ( winner ) young people 's literature @entity110 , " the @entity111 of @entity112 " @entity27 , " @entity30 " ( winner ) @entity113 , " @entity114 " @entity115 , " @entity116 " @entity117 , " @entity118 "

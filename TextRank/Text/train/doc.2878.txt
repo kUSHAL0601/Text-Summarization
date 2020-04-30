@@ -1,0 +1,76 @@
+@entity0 helped create the @entity1
+maybe not the internet foundations of @entity3 and @entity4 and @entity5 , the codes and packets and standards on which the whole thing is based
+but he was a factor in fashioning some of the @entity12 's upper floors
+with his contributions to @entity15 coding and the web application framework , @entity0 made some of today 's more expansive @entity1 possible
+but what @entity0 also helped create was a philosophy of the @entity1 , one that remains the subject of great controversy almost 20 years into its life : the libertarian idea that information wants to be free
+" @entity0 was a genius , " said @entity27 , principal technologist and a senior policy analyst at the @entity29
+" he was a technologist who was committed to open access to information , and committed to bringing about the changes he believed in
+" " @entity0 was an embodiment of the @entity12 , and a contributor to many of the aspects that made it great , " said @entity35 , who founded the blogging platform @entity36 , in a statement
+" when i was young and getting into technology @entity0 was even younger and literally setting the standards for the web with contributions to @entity15 and @entity47
+he inspired a generation to share online , to move to ( @entity49 ) , to not be afraid to start things , and to break down barriers
+" @entity0 died friday of an apparent suicide in his apartment in @entity54 , @entity55
+although @entity0 's life was not without controversy -- he faced federal charges that he illegally downloaded millions of scholarly papers from @entity60 -- his death has been met with an outpouring of tributes and grief
+a @entity66 page was set up for people to express their thoughts and condolences
+friends and commenters there described him as " inspiring , " " enthusiastic , " " a hero , " " shy , " " a great technologist " -- a bright , inquisitive , creative , challenging personality who deeply affected those he touched
+opinion : why the @entity79 grieves @entity0 " such a brilliant , disciplined , well - spoken guy with a great sense of humor , who probably knew as much about ' @entity82 ' mythology and trivia as he did about programming computers , " wrote a member of @entity81 , a " @entity82 " fan club , noting the shock of club members in 1999 when they met with the budding web developer and discovered he was just 12 years old
+" let his life be an inspiration to us all to keep fighting , to keep building a better world , where free expression and open standards become the norm for everyone , " added @entity93 , who described himself as an " @entity94
+" " @entity104 , we have lost a wise elder
+hackers for right , we are one down , " said @entity12 creator @entity106 in a tweet
+' i want something new , something worthwhile , something better ' @entity0 was apparently committed to such activism from an early age
+he was born in @entity115 , the son of a software company founder , and showed both intellect and restlessness at an early age
+" my name is @entity0 , " he wrote on a blog when he was a teenager , according to an entry on the @entity66
+( the actual blog post appears to be unavailable
+) " i 'm a 9th grader at the @entity125
+in the summer of 2000 , i finally realized that school was n't working
+i decided to do something about it
+... i 'm tired of outdated teaching practices where the students do n't learn anything
+i 'm tired of constantly being prepared for more preparation
+i want something new , something worthwhile , something better
+" he would have been 13 at the time
+@entity0 never really gravitated to old - fashioned schooling ; after his blog note , he mainly studied at home
+he enrolled at @entity137 in 2004 but only stayed a year , saying he did n't find " a very intellectual atmosphere " on the campus at the edge of @entity139
+he later became a fellow at @entity144 's @entity143
+by the time he was 14 , he had co-written the specification for @entity15 -- originally @entity15 , now @entity15 -- a web - publishing technology for delivering syndicated content from frequently updated sites , such as blogs or news websites
+@entity15 allows web consumers to receive the latest stories on a feed without having to constantly revisit their favorite pages
+if you subscribe to a podcast -- or receive automatic updates from @entity157 -- you have @entity0 to thank
+after leaving @entity137 he created @entity158 , which was later merged with @entity158 , the freewheeling social - news site where users vote their favorite stories onto the main page
+@entity158 , which was purchased by @entity162 in 2006 , has come under fire for its anything - goes ethos
+one popular @entity158 moderator , who went by the name @entity168 , was known for starting @entity158 pages devoted to underage girls and violent fantasies
+when his identity became known via a @entity174 article , he was fired from his job
+@entity0 was long gone from @entity158 by then -- he was let go just after the @entity162 purchase -- but believed in the ethos of the site and the open internet in general
+" ( @entity183 ) engineered his own dismissal and got cashed out , and then became a full - time , uncompromising , reckless and delightful s * * * - disturber , " wrote @entity181 's @entity180 , a friend of @entity0 's , in a tribute
+one of @entity0 's desires was to make public information truly public -- that is , free and easily available
+there 's a government - run system , @entity193 , that allows the public to access court records online
+however , @entity193 charged a fee for accessing this public - domain information
+as @entity180 observed , @entity0 " singlehandedly liberated 20 % of @entity199 law " by moving the information onto a public site , spending " a small fortune " of his own money doing so
+later , @entity0 founded @entity204 , a group devoted to internet activism
+for all his success with programming , it 's in this arena that he had the most impact , said @entity27
+demand progress was instrumental in fighting the @entity212 and the @entity213 , two bills that would have expanded government oversight in fighting internet piracy and copyright violations at the possible expense of the free flow of information
+" he really , really believed that public information should be free and accessible to everyone , " said @entity27
+suicide sparks talk about depression ' this was not serious computer hacking ' by the time @entity212 and @entity213 were shot down last year , @entity0 had become entangled in another legal thicket surrounding free access to online data
+according to federal prosecutors , @entity0 used @entity60 's computer networks to download more than 4 million articles from @entity233 , a digital library of academic journals , in 2010 and 2011
+he was charged with wire fraud , computer fraud and other crimes , even though @entity233 declined to prosecute and urged the government to drop the case
+" what @entity0 was accused of by the government ( was ) essentially a serious form of computer hacking , " said @entity27
+if found guilty , @entity0 could have been sentenced to up to 35 years in jail and a $ 1 million fine
+@entity27 was one of many observers surprised at the severity of the charges
+" these are the kinds of things you 'd assume the government would use in a serious hacking case -- identity theft , millions of credit card numbers stolen , hacking into protected government databases or corporate networks , " he said
+" @entity0 was accused of downloading too many articles from a website that anyone connected to the @entity60 network could log into
+" this was not serious computer hacking and the government did n't appear to differentiate between those kinds of activities
+" prosecutors saw it differently
+when @entity0 was indicted in july 2011 , @entity199 attorney @entity270 said , " stealing is stealing whether you use a computer command or a crowbar , and whether you take documents , data or dollars
+it is equally harmful to the victim whether you sell what you have stolen or give it away
+" in the wake of @entity0 's death , critics have been quick to cast blame
+@entity144 law professor @entity285 , an outspoken writer on @entity1 issues , titled a blog post " prosecutor as bully
+" " from the beginning the government worked as hard as it could to characterize what @entity0 did in the most extreme and absurd way , " he wrote
+" somehow , we need to get beyond the ' i 'm right so i 'm right to nuke you ' ethics that dominates our time
+that begins with one word : shame
+" @entity0 's family was equally pointed
+" @entity0 's death is not simply a personal tragedy
+it is the product of a criminal justice system rife with intimidation and prosecutorial overreach
+decisions made by officials in the @entity312 's office and at @entity60 contributed to his death , " they said in a statement
+@entity314 , a spokeswoman for the @entity199 @entity316 , declined to comment to @entity157 on @entity0 's case , citing respect for his family
+@entity27 , the @entity29 's analyst , said he sees @entity0 's death as a great loss
+@entity0 could have made a fortune as a start - up wizard or venture capitalist but instead he plowed what money he made into his activism , he said
+" @entity0 is seen as a hero
+he spent a lot of time working to make the @entity1 a more open place , " @entity27 said
+" we lost a really important person who changed the internet in a positive way , and we all lose out by his departure

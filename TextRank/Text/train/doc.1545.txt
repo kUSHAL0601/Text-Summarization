@@ -1,0 +1,35 @@
+bold claims for new battery technology have been around since the invention of the lead - acid battery more than 150 years ago
+but researchers at @entity6 in the @entity7 say their latest discovery involving the new wonder material graphene could be the most revolutionary advance in battery technology yet
+according to a study published in the journal nature , graphene membranes could be used to sieve hydrogen gas from the atmosphere -- a development that could pave the way for electric generators powered by air
+" it looks extremely simple and equally promising , " said dr @entity20 , a post-doctoral researcher in the project
+" because graphene can be produced these days in square metre sheets , we hope that it will find its way to commercial fuel cells sooner rather than later
+" pencil power at the heart of the technology is the remarkable physical properties of graphene -- a substance with the same atomic structure as the lead found in the humble household pencil
+isolated in 2004 by a team from @entity6 headed by @entity39 and @entity40 -- both of whom won the @entity42 for their discovery in 2010 -- graphene is already well known as a technological game - changer
+the first two - dimensional crystal known to science , graphene is the thinnest , lightest and strongest object ever obtained
+it is harder than diamond and 200 times stronger than steel
+flexible , transparent and able to conduct electricity even better than copper , the ground - breaking substance is set to revolutionize everything from smartphones and wearable technology to green technology and medicine
+renowned for its barrier qualities , graphene is just one atom thick - more than a million times thinner than a human hair
+membrane technology the latest discovery makes graphene attractive for possible uses in proton - conducting membranes which are at the core of modern fuel - cell technology
+fuel cells work by using oxygen and hydrogen as a fuel , converting the chemical energy produced by its input directly into electricity
+however , current membranes that separate the protons necessary for this process are relatively inefficient , allowing contamination in the fuel crossover
+using graphene membranes could boost their efficiency and durability
+the team found the protons passed through the ultra-thin crystals with relative ease , especially at raised temperatures and with the use of a platinum - based catalyst coated on the membrane film
+harvesting hydrogen the most surprising aspect of the research , however , found the membranes could be used to extract hydrogen from the atmosphere
+the scientists said such harvesting could be combined with fuel cells to create a mobile electric generator fueled simply by hydrogen present in air
+" when you know how it should work , it is a very simple setup
+you put a hydrogen - containing gas on one side , apply small electric current and collect pure hydrogen on the other side
+this hydrogen can then be burned in a fuel cell
+" we worked with small membranes , and the achieved flow of hydrogen is of course tiny so far
+but this is the initial stage of discovery , and the paper is to make experts aware of the existing prospects
+to build up and test hydrogen harvesters will require much further effort
+" currently , hydrogen is obtained nearly entirely from fossil fuels
+graphene revolution already scientists are finding new ways of processing graphene and new applications for the invisible substance
+because it is flexible and stretchable , it makes it an ideal candidate for solar generation
+new research from the @entity140 in @entity141 showed that graphene could be far more efficient in the transformation of light into energy
+the study found that unlike silicon , which generates only one current - driving electron for each photon it absorbs , graphene can produce multiple electrons
+although the application of graphene in solar cells is only theoretical , the potential could be staggering
+solar cells made with graphene could offer 60 % solar cell efficiency -- double the widely - regarded maximum efficiency of silicon cells
+apart from uses in transportation , where its lightness and strength stands to transform the manufacture of cars and planes to make them more fuel efficient , graphene has been studied as a corrosion - proof coating for packaging and even super-thin condoms
+in medicine , researchers say it could be used to deliver drugs to specific sites in the body and is being developed as a treatment for people with brain conditions
+in industry , its use as a membrane is being studied as a means of purifying water and even as a way of extracting salt and other elements from sea water to make it drinkable
+read more from tomorrow transformed : wind farms of the future go underwater is the @entity198 a glimpse into the web of the future ? @entity202 's impact on the future of e-commerce

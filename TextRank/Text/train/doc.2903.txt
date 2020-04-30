@@ -1,0 +1,64 @@
+-- @entity2 's fingerprint sensor , @entity1 , is the flagship feature on the @entity4
+but it does n't always work the way it should
+since the sensor 's introduction in september , a growing number of issues have surfaced — including everything from phones that do n't recognize when a finger is present to those that do n't approve fingerprints they 're supposed to approve
+what 's going on here ? while faulty software or hardware could be to blame in a few cases , the problem might also be you
+determining the real culprit requires a closer look at how @entity2 's sensor technology really works
+touch id is composed of an 8 x 8 millimeter , 170 - micron - thick capacitive sensor located just beneath the home button on the 5s
+this is used to capture a 500 - pixel - per - inch ( ppi ) resolution image of your fingerprint
+the sensor can read pores , ridges , and valleys
+it can identify arches , loops , and whorls
+it can even recognize fingerprints oriented in any direction
+when you place your finger or thumb on the sensor , it looks at the fingerprint pattern on the conductive sub-dermis layer of skin located underneath the dermis layer
+it also measures the differences in conductivity between the tops of the ridges and the bottoms of the valleys in your prints in this layer
+this is more accurate than looking at the dead surface of the skin alone , which is constantly changing and is n't conductive
+13 of the @entity70 's @entity69 this capacitive sensor is made of raw silicon
+as such , it tends to be very fragile and susceptible to performance problems caused by dust , moisture , and electrostatic discharge , or @entity78
+to protect and insulate the sensor , @entity2 layered laser - cut sapphire crystal on top of the silicon
+it chose sapphire for a few reasons
+the material is very clear , and it acts as a lens for your fingerprint
+it 's also hard ( it scores a 9 on the @entity91 scale of hardness ) , which means it 's difficult to scratch
+if the home button does get scraped or scuffed , the images sent to the @entity1 sensor will be flawed and it will cease to work properly
+what 's more , a stainless steel ring encircles the button and acts as a capacitive touch switch , turning the actual touch sensor on and off when a finger is present so it does n't eat up your @entity4 's battery life
+which should you buy : @entity108 or @entity109 ? after you register your fingerprint — a process known as enrolling — an encrypted mathematical representation of that information is stored on the device 's @entity116 processor in what 's called the " secure enclave
+" when the sensor captures an image , software algorithms determine whether the print is a match with the stored information or not
+a match allows access to the homescreen
+there are obviously a few possible points of failure in this process , but it all hinges on first getting that robust fingerprint data
+" any good biometric has to start with a high - quality image , " @entity138 ' ceo @entity137 told @entity139
+his company makes a variety of compact fingerprint sensors that use a different method from @entity2 's @entity1 ( electroluminescence and a thin film transistor ) to read fingerprints
+basically , the larger the sensor , the easier it is to pick up a more accurate representation of your full fingerprint because it 's working with more data
+this makes it easier for recognition algorithms to confirm that your fingerprint actually belongs to you
+but a larger sensor also introduces two problems : cost , in the case of a capacitive scanner like @entity2 's , and thickness , in the case of another popular fingerprint technology , optical sensing
+( you 've probably used the latter at the @entity169 or gym
+) the 13 best movies you did n't see in 2013 based on what we 've seen from @entity2 's patent applications , it 's highly likely the company considered other implementations of a touch sensor
+but ultimately , it opted for a smaller version that could more easily fit inside the home button
+@entity2 partially gets around the small sensor issue using the enrollment process , which includes rolling your finger around to try to capture every microscopic nook and cranny on your finger
+then , at least , it has a large source to pull from , even if it 's only scanning a section of that each time you tap your finger
+still , the less data you have from a fingerprint to process , the harder it is to get a match
+@entity199 coo @entity198 offers a good analogy : if you have a picture of a face and you see only a small part of that picture — the eyes , or part of one eye — it will be hard to recognize if it is a friend , or someone you do n't know
+if you have the full face , it 's easy to process
+seeing only a portion of a fingerprint sets higher and higher requirements on software algorithms , @entity198 says
+indeed , the more sensitive the algorithm ( to get a more exact match ) , the more false - negatives ( failed when it should have passed ) are produced , which may frustrate a valid user , according to @entity223 , cto of biometric identity service startup clear
+16 gifts @entity226 " the challenge is then to find that happy balance of acceptable false - negatives and false - positives and user experience , " @entity223 says
+for security 's sake , you would want the algorithm to veer towards false - negatives rather than false - positives
+@entity2 's @entity1 algorithm is designed to learn and improve over time — with each scan , it checks if it is a better reading than what is stored , and can update the master data for your print this way
+this algorithm could certainly be changed or improved through @entity247 updates , as well
+user error , and a lack of knowledge about biometrics and how they work , could also be causing some people 's issues with @entity1
+" a lot of us in the industry , we are very impressed by the job @entity2 has done with @entity1 , " @entity198 said
+" but on the consumer side , a lot of people have never used biometrics at all
+" @entity263 founder reveals @entity264 for getting @entity265 there are a variety of small things that could be going on to interrupt a successful @entity1 experience
+first , for it to work properly , your finger needs to make contact not just with the sapphire of the home button , but also the stainless steel ring surrounding it
+next , the sensor itself works by measuring electrical differences between the ridges and valleys of your fingerprints
+if your hands are too dry , it 's going to be difficult for your print to be recognized ( this could be a growing problem in the dry winter months ahead )
+conversely , if your fingers are too moist or oily , recognition can also fail , as those valleys get filled
+if the button gets dirty , as it likely will over time , you 'll also want to clean it to keep @entity1 working properly
+@entity2 suggests using a clean , lint - free cloth
+but what about that touch sensor itself ? some have worried that , like traditional capacitive - based fingerprint sensors , it will degrade over time
+@entity301 thinks that as long as the sapphire crystal and metal ring are not damaged and are properly sealed , the sensor should last the life of the phone
+capacitive sensors in the past were unprotected , or covered in a very thin layer of carbon , and thus were very fragile
+the @entity311 ever made of @entity313 's @entity312 for those experiencing @entity1 issues that cause their phone to freeze , or to not work as well over time , restarting the phone or recalibrating the sensor are your best bets
+and if you 're new to touch id or having trouble , @entity2 also has a guide you can reference for help
+fingerprint sensors may not be a new technology
+but @entity1 is certainly a new implementation of it
+it 's bound to experience some bumps as @entity2 tweaks its algorithms , and as users get accustomed to using biometrics on a daily basis
+at the very least , by understanding how it works and the inherent pitfalls of fingerprint sensors , we can help minimize those issues ourselves
+subscribe to @entity139 for less than $ 1 an issue and get a free gift ! click here ! copyright 2011 @entity341 .

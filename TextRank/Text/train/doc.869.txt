@@ -1,0 +1,54 @@
+-- on april 27 , @entity4 's @entity2 and @entity3 satellites detected a strong signal from the brightest gamma - ray burst in decades
+because this was relatively close , it was thousands of times brighter than the typical gamma - ray bursts that are seen by @entity3 every few days
+scientists are now scrambling to learn more
+we already knew that when the biggest stars run out of fuel , they do n't fade quietly away
+instead , they explode in a blaze of glory known as a supernova
+these stellar explosions are often bright enough to be seen by us even though they are in galaxies billions of light - years from our own @entity22 galaxy home
+in very rare cases -- such as @entity25 ( tagged with the date of its discovery ) -- astrophysicists are lucky enough to see energetic gamma - rays from hyperfast jets of outflowing material consisting of charged particles created during a massive star 's violent death throes
+this means @entity25 's jets must be aimed toward @entity37 -- purely by chance , of course
+for every jet pointed at us , there are hundreds of exploding stars across the universe whose jets point randomly in other directions
+telescopes on other planets in those directions could see those jets , and we might see the exploding stars as supernovae , but we do n't see the bright gamma - ray flashes from jets beamed away from us
+in the hours after this unusual gamma - ray burst was discovered , astrophysicists rushed to learn more
+thanks to observations made with the @entity59 - based optical telescope in @entity60 , it quickly became clear that @entity25 was superbright primarily because it lay only a few billion light years away
+had it been situated in a much more distant galaxy -- as many gamma - ray bursts are -- its signal would have been relatively feeble
+the proximity of @entity25 means we can learn a great deal about it
+for example , most of the energy from supernovae is thought to be carried away by neutrinos -- the lightweight , difficult - to - detect particles that are so important to understanding the fundamental laws of nature
+the world 's most powerful neutrino telescope , @entity81 , uses @entity83 ice as the detector volume , with electronic equipment sunk throughout a cubic kilometer of ice -- enough water to fill a million swimming pools -- to detect signals from neutrinos interacting with the ice
+if there is a supernova associated with this gamma - ray burst , a big optical flash should be seen any day now by ground - based telescopes , preceded by a flood of neutrinos
+( the neutrinos are emitted at the time of collapse , while the optical light is the consequence of explosive debris hitting material surrounding the star a bit later
+) interestingly , an april 18 paper in the journal @entity110 reported that upper limits for neutrinos measured from @entity81 are low enough that gamma - ray bursts are unlikely to be the sole source of ultra-high energy cosmic rays
+just nine days later , the bright nearby burst happened , leading to the @entity2 detection of the highest energy gamma - ray ever
+now there is a real chance @entity81 will make the first detection of astrophysical neutrinos , from the supernova associated with @entity25
+want to know more technical details ? here is some background information about light and about the deaths of stars : gamma - rays are the most energetic form of light , with wavelengths far shorter than ordinary optical light ( the light your eye can see ) , or even ultraviolet or x-ray light
+the energy of a packet of light -- or " photon " -- is inversely proportional to its wavelength
+since the wavelength of an x-ray photon is approximately 1/1,000 of the wavelength of optical light , for example , an x-ray photon has 1,000 times the energy of an optical photon
+this is why x-rays can penetrate your skin and soft tissue -- though not bone -- while sunlight mostly reflects off your skin
+gamma - rays have thousands to millions or even billions of times the energy of ordinary sunlight
+being highly energetic , they are hard to produce and very rare
+so when we detect gamma - rays from space , we know they signal intensely hot , extreme events
+stars , such as our sun , are giant balls of gas held together by gravity
+acting alone , gravity would cause stars to collapse completely , but as long as energy is produced at their centers by nuclear fusion ( the joining of atomic nuclei to form new elements , as in a hydrogen bomb ) , the star is heated and puffed up
+during this phase , stars radiate that heat , shining brightly like our sun , mostly at optical wavelengths
+it is an interesting triple " coincidence , " which probably evolved over time , that our eyes are most sensitive to yellow - green light , which happens to be the characteristic color of sunlight as well as the color that can most easily be transmitted through the @entity37 's atmosphere
+when nuclear fusion uses up a star 's fuel , in the central high - pressure stellar core where fusion occurs , the star will collapse fairly violently
+depending on its initial mass , it might collapse to a compact hot star known as a white dwarf ( when the star 's mass is less than 1.4 times the mass of our sun ) or to a neutron star ( for stars 1.4 to about three times the mass of our sun ) or to a black hole ( for stars more massive than three times the mass of our sun )
+a black hole collapse is very violent and not well understood at present
+theorists believe the rapid collapse generates heat that ignites the explosion
+the explosive energy is released in the form of neutrinos , light ( mostly gamma - rays ) , and a pair of relativistically outflowing emitting jets
+that 's why an event such as @entity25 probably signals the collapse of a massive star into a black hole
+incidentally , if not for supernovae , we would n't be here
+every single atom of your body that is not hydrogen or helium was created in the fiery interior of a massive star
+the supernova explosion disperses these elements throughout interstellar space , where they become the building material for new planets
+when @entity37 formed out of such materials -- iron , manganese , calcium , silicon , oxygen , nitrogen , carbon , etc. -- organic chemicals , then cells , then organisms , then humans were able to evolve
+in the 1960s , @entity4 launched the first gamma - ray satellites to look for signals of intense radioactive decay on @entity37 , which could be generated by nuclear explosions
+in other words , detecting gamma - rays was a way to spot nuclear tests
+years later , scientists examining data from the @entity275 satellites found gamma - ray bursts -- but they were coming from space , not from human activities on the ground
+since that time , gamma - ray bursts have been one of the most interesting phenomena in the cosmos
+they are incredibly luminous , with most of the energy of a stellar explosion packed into a few seconds or less , so they represent a kind of extreme physics
+thousands of gamma - ray bursts have been studied for more than 40 years
+because of its proximity , @entity25 generated more gamma - rays , over a longer time and at higher energies , than any detected previously by the @entity2 or @entity3 satellites
+astrophysicists ca n't be successful just because they are clever and hard - working
+they also have to be lucky
+on april 27 , nature smiled on the @entity37 's astrophysical community in the form of @entity25 , a powerful laboratory for understanding relativistic jets , black holes and stellar collapse
+now the experimental analysis begins
+more space and science news at @entity307 the opinions expressed in this commentary are solely those of @entity310 .

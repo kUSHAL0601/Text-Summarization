@@ -1,0 +1,5 @@
+-- @entity1 has ordered a @entity3 medical aid agency out of @entity5 state , accusing the organization of supporting rebel forces and for releasing what it called false rape reports against forces loyal to the @entity13 government , according to state - run media
+@entity15 ( @entity16 ) announced the expulsion of @entity18 on tuesday
+appearing at a news conference in @entity21 , the capital of @entity5 , gov. @entity19 accused the organization of sharing intelligence with the rebels of the @entity25 , giving them access to satellite telephones and medicine
+@entity19 also accused the organization of publishing false rape reports and for delivering tons of expired medications to eastern @entity32 via the joint @entity34 - @entity33 in @entity5
+@entity18 , or @entity18 , describes itself on its website as " an international humanitarian organisation providing medical care to vulnerable populations affected by war , natural disasters , disease , famine , poverty or exclusion , " and has a network extending to 16 countries in four continents .

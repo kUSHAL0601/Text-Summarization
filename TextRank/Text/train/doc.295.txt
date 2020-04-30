@@ -1,0 +1,10 @@
+@entity0 -- @entity0 lobbyist @entity3 has dropped her libel suit against the @entity5 , the paper announced thursday
+lobbyist @entity3 has dropped her libel suit against @entity5
+the @entity5 said the paper did not retract the article and that the lawsuit was settled without payment
+instead , the paper will allow @entity3 's lawyers to " give their views on the suit " on the paper 's web site
+the lawyers wrote that the negotiation process with the newspaper was " rational " and led to " a civilized resolution
+" the defamation suit contended that the @entity5 improperly suggested in a lengthy february 2008 article that @entity3 had begun an affair with @entity25 in 1999 , before @entity25 undertook his first presidential run
+@entity3 's lawyers also said the article implied that she unethically profited from her relationship with @entity25
+@entity25 and his advisers used the article and its use of unnamed sources to blast the @entity5 as biased against the then - presidential candidate as he cruised to the @entity35 nomination
+the two sides issued a joint statement on the paper 's web site stating that " ms. @entity3 has accepted the @entity5 ' explanation , which will appear in a note to readers to be published in the newspaper on feb. 20 , that the article did not state , and the @entity5 did not intend to conclude , that ms. @entity3 had engaged in a romantic affair with @entity25 or an unethical relationship on behalf of her clients in breach of the public trust
+" the paper quotes times executive editor @entity50 as saying the lawsuit " was settled without money changing hands , and without @entity53 backing away from the story

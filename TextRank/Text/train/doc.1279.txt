@@ -1,0 +1,46 @@
+@entity0 , @entity1 -- if every scientist hopes to make at least one important discovery in her career , then @entity7 professor @entity6 and her colleagues may have hit the jackpot
+scientists have bred a new strain of flood - tolerant rice that could help feed millions
+@entity16 's team works with rice , a grain most @entity19 take for granted , but which is a matter of life and death to much of the world
+thanks to their efforts to breed a new , hardier variety of rice , millions of people may not go hungry
+about half the world 's population eats rice as a staple
+two - thirds of the diet of subsistence farmers in @entity35 and @entity36 is made up entirely of rice
+if rice crops suffer , it can mean starvation for millions
+" people [ in the @entity19 ] think , well , if i do n't have enough rice , i 'll go to the store , " said @entity16 , a professor of plant pathology at @entity7
+" that 's not the situation in these villages
+they 're mostly subsistence farmers
+they do n't have cars
+" as sea levels rise and world weather patterns worsen , flooding has become a major cause of rice crop loss
+scientists estimate 4 million tons of rice are lost every year because of flooding
+that 's enough rice to feed 30 million people
+@entity61 is grown in flooded fields , usually to kill weeds
+but rice plants do not like it when they are submerged in water for long periods , @entity16 said
+" they do n't get enough carbon dioxide , they do n't get enough light and their entire metabolic processes are thrown off
+the rice plant tries to grow out of the flood , but when it does , it depletes its sugar reserves
+it starts to break down its chlorophyll , important for photosynthesis
+it grows really quickly , and then when the flood recedes , it just dies
+it 's out of gas
+" normal rice dies after three days of complete flooding
+researchers know of at least one rice variety that can tolerate flooding for longer periods , but conventional breeding failed to create a strain that was acceptable to farmers
+so @entity16 and her colleagues -- @entity93 , senior scientist at the @entity94 in the @entity95 and @entity96 , professor of genetics at the @entity98 -- spent the last decade working to find a rice strain that could survive flooding for longer periods
+@entity93 identified a flood - resistant gene 13 years ago in a low - yielding traditional @entity35 rice variety
+he passed along the information to @entity16 , who isolated the gene , called @entity105 , and introduced it into normal rice varieties , generating rice that could withstand being submerged in water for 17 days
+the team relied on something called precision breeding , the ability to introduce very specific genes into plants without the associated baggage of other genes that might tag along in conventional breeding
+" this can be a problem for farmers , " @entity16 said
+" the varieties that were developed from conventional breeding were rejected by farmers because they did n't yield well or taste good
+" using precision breeding , scientists introduced the @entity105 gene three years ago into test fields in @entity36 and @entity35
+the subsequent rice harvests were a resounding success
+" the results were really terrific , " said @entity16
+" the farmers found three - to five-fold increases in yield due to flood tolerance
+they can plant the normal way
+they can harvest the normal way and it tastes the same
+farmers had more food for their families and they also had additional rice they could sell to bring a little bit of money into the household
+" " the potential for impact is huge , " agreed @entity93 in a statement on the @entity94 web site
+" in @entity36 , for example , 20 percent of the rice land is flood prone and the country typically suffers several major floods each year
+submergence - tolerant varieties could make major inroads into @entity36 's annual rice shortfall
+" the researchers anticipate that the flood - tolerant rice plants will be available to farmers in @entity36 and @entity35 within two years
+because the plants are the product of precision breeding , rather than genetic modification , they are not subject to the same regulatory testing that can delay release of genetically modified crops
+the @entity19 @entity168 conferred one of its highest research awards last december on @entity16 , @entity93 and @entity96 for their work on submergence - tolerant rice
+but @entity16 has no plans to rest on her laurels
+" i feel a great sense of gratitude that i was able to contribute in this way , " she said
+" but the farmers have asked us , ' can you develop varieties that are drought tolerant , salt tolerant ? can you develop varieties that are insect resistant ? ' there are always more things to work on
+" @entity2 's @entity188 contributed to this story .

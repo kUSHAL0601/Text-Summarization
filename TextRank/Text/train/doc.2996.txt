@@ -1,0 +1,21 @@
+-- @entity1 has joined the browser wars with @entity3 , its very own tool designed to enhance its search with a clear eye toward the rapidly expanding mobile web
+@entity3 , the company announced late wednesday , is a stand - alone app currently available for @entity11 mobile devices like the @entity12 and @entity13 and on desktops as an add - on to established browsers like @entity17 , @entity18 , @entity19 and @entity20
+@entity1 special project director @entity21 wrote on the company 's search blog that " with a mobile - first focus , " the company " set out to completely re-think and re-design how users search and browse the @entity7
+" the result was @entity3 , a visual - rich tool that aims to combine searching and browsing into one experience
+on mobile devices , a query returns thumbnail images of actual web pages instead of a list of links
+people can use the touchscreen to scroll and choose a page
+early reviews have been positive for the mobile version of the tool , which addresses the rising percentage of time @entity7 users spend accessing the internet on phones and tablets
+" @entity49 is where the action is , so it makes sense that @entity1 threw the bulk of its development love into the tablet and smartphone versions , " wrote @entity58 's @entity57
+" on the @entity13 , @entity3 is simply a great browser
+the integrated search feature is intuitive , and being able to move through search results without having to go back to search makes sense
+after only a few minutes using it i thought , why has n't @entity64 done this yet ? it 's that good
+" a pull - down feature lets users flip back and forth between a web page and their search results
+it also features search bookmarking and integration with @entity76
+users can also integrate @entity3 among multiple devices , saving a personal homepage and searches on phone , tablet and desktop computers
+the tool 's main page also shows " trending " searches at any given time
+on the desktop version , @entity3 appears as a small search box in the bottom left corner of the browser window , allowing people to keep using whatever browser they like
+the unveiling of @entity3 comes as @entity1 is trying to jockey for position among the big three of web search -- @entity64 , @entity98 's @entity97 and @entity99
+@entity64 controls about 64 % of the search market , according to march numbers from @entity102
+@entity1 ( which is powered by @entity97 ) had about 16 % of the market , while @entity97 itself accounted for another 14 %
+@entity104 , of @entity105 , writes that the release of @entity3 marks a new charge in the browser wars , as all three companies work to revamp , and redefine , web search
+@entity104 wrote : " the three leaders in this space have each realized that the conventional paradigms for search , architected over a decade ago when bandwidth was low , few people used the web for more than research , and almost all computing was done at desktops , no longer work in an age of mobile apps , multiple devices , big data , and ever greater expectation on the part of the consumer that working online is about getting things done , not just perusing documents

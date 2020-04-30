@@ -1,0 +1,1 @@
+@ highlight @entity1 will feature @entity3 photos in a weekly @entity5 gallery

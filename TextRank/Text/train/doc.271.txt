@@ -1,0 +1,17 @@
+-- @entity2 's alternative search engine -- a $ 24 million venture - backed project that 's been three years in the making -- is today launching its public beta
+with the official rollout , @entity2 is also releasing several new features designed for both mainstream and the site 's super users
+as you may recall , @entity2 is designed to eliminate spam search results , allowing users to search just a subset of the web through its proprietary slashtag technology
+the most significant upgrade to @entity2 's search engine is the addition of slashtags that auto - fire for queries that fall into one seven categories : health , colleges , autos , personal finance , lyrics , recipes and hotels
+every time a @entity2 user 's query is determined to be in one of these categories , @entity2 will automatically append the associated slashtag to the query and limit results to just the subset of urls that fall under that slashtag
+the auto - fire functionality is designed with passive searchers in mind , and aims to eliminate friction for first time users
+the technology that powers these auto - slashtags was developed through an extensive research and development phase that involved analyzing the relationship between queries and the type of spam results they typically generate
+@entity2 plans to introduce auto - slashing for additional categories moving forward , but selected to launch with ones that represent a high volume of search traffic and are typically laden with spammy results
+health , lyric and financial queries on @entity65 or @entity66 , for instance , will return results dominated by poor quality content farms or malware - hosting sites
+those same searches on @entity2 yield results only from high quality sites
+@entity2 's slashtag formula works because of passionate users who take the time to add and edit urls for category slashtags
+as such , the company has released new features to enable users to apply to be editors for slashtags as well as share their comments and feedback on individual slashtags
+think of this as the @entity87 formula but applied to search , so a small percentage of users will work together to build out slashtags for the majority of @entity2 searchers
+@entity2 has been testing its solution to search with roughly 8,000 beta testers who have created more than 3,000 different slashtags
+@entity2 tells us that 11 percent of its existing user base come back to the site on a weekly basis
+ceo @entity102 and founder @entity103 have modest projections for the immediate future , but believe that once the site hits one to two million queries per day , it can be profitable
+@entity2 is currently available on the web or as a mobile - optimized site , but mobile applications are also said to be in the works

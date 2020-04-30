@@ -1,0 +1,25 @@
+-- a lie - detecting virtual border official nicknamed " @entity2 " is the latest high - tech approach to securing borders in the @entity5
+developed by @entity8 researchers in collaboration with @entity10 ( @entity10 ) , the computer is known as the @entity11 in @entity12 -- or @entity13 -- kiosk
+it uses sensors to screen passengers for unusual physiological responses to questioning -- which can indicate a subject is lying
+" what we 're looking for is changes in human physiology , " said @entity21 , a member of the @entity8 team behind the project
+" we 've had great success in reliably detecting these anomalies -- things that people ca n't really detect
+" the kiosk is being trialled at @entity33 in @entity34 , @entity35 -- a checkpoint on the @entity5 - @entity38 border -- as a way of processing passengers looking to sign up to @entity10 's " @entity42 " program
+the program allows travelers pre-approved as " low - risk " to be fast - tracked through security processes
+applicants for the program must undergo an interview and biometric fingerprinting to be eligible for the program -- both of which can be performed by the @entity52
+@entity21 said the kiosk could process travelers in five minutes
+travelers simply stand in front of the unit -- which " looks like an atm on steroids , " according to @entity21 -- and respond to yes / no questions asked in @entity58 or @entity59
+" you speak to it like you speak to a person , " he said
+their answers are monitored , with any unusual physiological responses passed on to " a human field agent " who then subjects them to " a more careful interview process , " said @entity10 spokesman @entity72
+unusual responses were not a sure sign of a lie , said @entity21
+" there might be valid reasons for it beyond deception
+" read more : ' safe - list ' travelers get fast - track through airport security the computer uses three sensors to assess physiological responses : a microphone , which monitors vocal quality , pitch and frequency ; an infrared camera , which looks at pupil dilation and where the eyes focus ; and a high - definition camera recording facial expressions
+some of the involuntary cues that betray whether a speaker is lying could be controlled , but not all of them at once
+lab testing had indicated the machine was much more successful than humans at detecting these cues , according to @entity21
+" people have a hard time detecting small changes in the frequency of the human voice , that a computer is much better at , " he said
+" people are accurate about 54 % of the time at detecting deception ... we have got our machine as high as 90 % in the lab. " @entity72 said the project was still in the early phase of field testing , and participating in the @entity13 interview process was entirely voluntary at this stage
+but if successful , the initiative could be rolled out in other parts of @entity10 's operations
+@entity21 said it was hoped that , as well as providing better detection of suspicious behavior , the @entity52 would prove to be " a really important time and money saving tool
+" initially , the kiosk did not have the avatar feature , but it was added after its developers found that without it , people would tend to speak to the machine in a robotic , unnatural manner
+it even got a name among the team developing the project
+" we call him @entity2 , or @entity142 , " said @entity21
+" but when he 's in the field he 's just the @entity13 agent

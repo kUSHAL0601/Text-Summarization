@@ -1,0 +1,32 @@
+-- have you ever created a @entity2 on @entity3 or set up a station on @entity5 ? just plug in one song , and you instantly hear music that matches your tastes
+think of @entity10 , the free personalized @entity11 magazine that launched today , as the @entity3 playlist or @entity5 of news discovery -- but with one noticeable advantage : @entity10 is smarter , at least for now
+developed by researchers at the @entity16 's @entity17 , the technology behind @entity10 can learn your reading habits and personalize content based on your interests
+when first opening the app , @entity10 will immediately begin personalizing your experience
+link a @entity25 account or @entity26 , and @entity10 will analyze ( not simply display ) your feeds to create a magazine tailored to your interests
+you might get sources you know , you might get content you want from sources you do n't know
+( and yes , you 'll occasionally get stories you have no interest in -- just tell @entity10 and it catches on pretty quickly
+) after adding my @entity25 handle @ austincarr , for example , @entity10 learned my tastes and created relevant sections -- entrepreneurship , gadgets , social media
+it then culled news items from fitting sources -- @entity0 , @entity45 , @entity46 , @entity48 's blog
+as i skimmed through the news , @entity10 began learning my preferences
+what specifically do i like about social media ? was i interested in long - form journalism ? did i enjoy straight - news items or editorials ? features or analysis ? popular sources or niche blogs ? the more feedback @entity10 collected , the more personalized it became
+" it 's a combination of semantic - and statistically based machine learning , " says ceo @entity61 , of @entity10 's content algorithm , the technology of which has been in development for years
+" it works by looking at the articles you click on and the characteristics of those articles
+is the article longer or shorter ? is it skewed toward one element of a topic or another ? is it a political blog ? if so , does it have have a right - or left - wing slant ? " users can tell @entity10 whether they enjoyed a particular article , whether they liked a particular source , or whether they want more news on a particular topic area
+but @entity10 can also learn from a user 's " soft " yes 's and no 's
+skip over a news brief ? @entity10 counts that as a soft no. did a headline catch your eye and get you to read the longer story ? @entity10 counts that as a soft yes
+news will soon narrow from , say , articles on food or sports to thousands of specialized sections such as news on vegetarianism or skiing
+users can select these topics on their own , but @entity10 is best at autosuggesting them -- after playing with the app for a week , @entity10 began featuring " @entity106 " as one of my top news sections
+would i have thought to add that category on my own ? according to the @entity109 - based company , @entity10 is the first @entity11 news reader " to go beyond manual customization
+" other popular readers -- @entity113 , pulse -- require users to manually provide sources , whether media outlets or rss feeds
+@entity10 automates that process and continuously refines content so it 's fresher and dynamically tailored to one 's interests
+" the difference between @entity113 and @entity10 is that with @entity10 , your sections are actually personalized , " @entity61 says
+" on @entity113 , you pick sections and sources to customize your magazine -- that 's what they call ' personalized
+' but that 's really ' customization
+' in essence , personalization is a technology -- it 's something that learns from you
+so , for example , your technology section and someone else 's will look very different based on your behavior -- rather than being the same generic thing that everyone else is seeing
+" still , loyal @entity113 fans might find the app just a bit more elegant , or feel the apps serve different purposes
+since @entity113 features only hand - picked sources , the app is arguably very personalized : just as one might only subscribe to @entity148 or @entity149 in print , one might only be interested in subscribing to those mags on @entity113 -- and less interested in reading similar content from other sources
+in this sense , @entity10 , with its endlessly fresh content culled from a wide range of media outlets , is more akin to a digital newspaper , whereas @entity113 ( especially with its far sexier and sleeker design ) feels more like a digital magazine
+but when it comes to " personalized " content discovery , @entity10 follows in the same impressive footsteps as @entity5 and @entity165 -- and certainly gives flipboard a run for its money
+" the underlying philosophy of our algorithm is : you are what you read , " @entity61 says
+copyright © 2010 @entity0 , a unit of @entity173 , llc. all rights reserved .

@@ -1,0 +1,41 @@
+" @entity1 " vision could be redefined by gadgets that give you the eyes of a cyborg
+the surface of the eye can be used to measure much of the same data you would get from blood tests
+the tech industry calls the digital enrichment of the physical world " augmented reality
+" such technology is already appearing in smartphones and toys , and enthusiasts dream of a pair of glasses we could don to enhance our everyday perception
+but why stop there ? scientists , eye surgeons , professors and students at the @entity28 have been developing a contact lens containing one built - in @entity31 , powered wirelessly with radio frequency waves
+eventually , more advanced versions of the lens could be used to provide a wealth of information , such as virtual captions scrolling beneath every person or object you see
+significantly , it could also be used to monitor your own vital signs , such as body temperature and blood glucose level
+why a contact lens ? the surface of the eye contains enough data about the body to perform personal health monitoring , according to @entity51 , a @entity28 professor of bionanotechnology , who is working on the project
+" the eye is our little door into the body , " @entity51 told @entity55
+with gadgets becoming increasingly mobile and powerful , the technology industry is seeing a steady stream of applications devoted to health
+a few examples include a cellphone microscope used to diagnose malaria , surgeons honing their skills with the @entity69 , and an @entity71 app made for diabetes patients to track their glucose levels
+a contact lens with augmented - reality powers would take personal health monitoring several steps further , @entity51 said , because the surface of the eye can be used to measure much of the data you would read from your blood tests , including cholesterol , sodium , potassium and glucose levels
+and that 's just the beginning
+because this sort of real - time health monitoring has been impossible in the past , there 's likely more about the human eye we have n't yet discovered , @entity51 said
+and beyond personal health monitoring , this finger - tip sized gadget could one day create a new interface for gaming , social networking and , well , interacting with reality in general
+@entity51 and his colleagues have been working on their multipurpose lens since 2004
+they integrated miniature antennas , control circuits , an led and radio chips into the lens using optoelectronic components they built from scratch
+they hope these components will eventually include hundreds of @entity31 to display images in front of the eye
+think words , charts and even photographs
+sounds neat , does n't it ? but the group faces a number of challenges before achieving true augmented eye vision
+first and foremost , safety is a prime concern with a device that comes in contact with the eye
+to ensure the lens is safe to wear , the group has been testing prototypes on live rabbits , who have successfully worn the lenses for 20 minutes at a time with no adverse effects
+however , the lens must undergo much more testing before gaining approval from the @entity138
+a fundamental challenge this contact lens will face is the task of tracking the human eye , said @entity143 , an associate professor and director of the augmented environments lab at @entity146
+@entity143 is not involved in the contact lens product , but he helped develop an augmented - reality zombie shooter game
+" these developments are obviously very far from being usable , but very exciting , " @entity143 said
+" using them for @entity151 will be very hard
+you need to know exactly where the user is looking if you want to render graphics that line up with the world , especially when their eyes saccade ( jump around ) , which our eyes do at a very high rate
+" given that obstacle , we 're more likely to see wearable augmented - reality eyeware in the form of glasses before a contact lens , @entity143 said
+with glasses , we 'll only need to track where the glasses are and where the eyes are relative to them as opposed to where the eyes are actually looking
+and with a contact lens , it will be difficult to cram heavy computational power into such a small device , even with today 's state - of - the - art technologies , @entity51 admits
+there are many advanced sensors that would amplify the lens ' abilities , but the difficulty lies in integrating them , which is why @entity51 and his colleagues have had to engineer their own components
+and when the contact lens evolves from personal health monitoring into more processor - intense augmented - reality applications , it 's more likely it will have to draw its powers from a companion device such as a smartphone , he said
+@entity196 , an @entity198 - based startup focusing on augmented reality , shares @entity28 's vision of an augmented - reality contact lens
+however , @entity202 , ceo of @entity196 , said such a device 's vision would be limited if it did not work with an open platform supporting every type of data available via the web , such as mapping information , restaurant reviews or even @entity211 feeds
+hence , his company has taken a first step by releasing an augmented - reality browser for @entity216 smartphones , for which software developers can provide " layers " of data for various web services
+@entity221 believes a consumer - oriented , multipurpose lens is just one example of where augmented - reality technology will take form in the near future
+he said to expect these applications to move beyond augmenting vision and expand to other parts of the body
+" imagine audio cues through an earpiece or sneakers vibrating wherever your friends are , " van der @entity202 said
+" we need to keep an open eye for future possibilities , and i think a contact lens is just part of it
+" subscribe to @entity244 for less than $ 1 an issue and get a free gift ! click here ! copyright 2009 @entity55 .

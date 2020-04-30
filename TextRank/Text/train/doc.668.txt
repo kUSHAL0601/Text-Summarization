@@ -1,0 +1,45 @@
+-- ephemeral messaging apps such as @entity4 , @entity5 and @entity6 , all of which advertise that your photo , message or update will only be accessible for a short period , are on the rise
+@entity4 and @entity6 , for example , claim they permanently delete messages , photos and videos after 10 seconds
+after that , there 's no record
+this notion is especially popular with young people , and these apps are an antidote to sites such as @entity25 where everything you post lasts forever unless you take it down -- and taking it down is no guarantee that it is n't still available
+these ephemeral apps are the first concerted push against the permanence of @entity34 conversation
+we started losing ephemeral conversation when computers began to mediate our communications
+computers naturally produce conversation records , and that data was often saved and archived
+the powerful and famous -- from @entity42 back in 1987 to @entity43 in 2011 -- have been brought down by e-mails , texts , tweets and posts they thought private
+lots of us have been embroiled in more personal embarrassments resulting from things we 've said either being saved for too long or shared too widely
+people have reacted to this permanent nature of internet communications in ad hoc ways
+we 've deleted our stuff where possible and asked others not to forward our writings without permission
+" @entity65 scrubbing " is the term used to describe the deletion of @entity25 posts
+sociologist @entity66 has written about teens who systematically delete every post they make on @entity25 soon after they make it
+apps such as @entity5 just automate the process
+and it turns out there 's a huge market in that
+social media users migrating to smaller circles ephemeral conversation is easy to promise but hard to get right
+in 2013 , researchers discovered that @entity4 does n't delete images as advertised ; it merely changes their names so they 're not easy to see
+whether this is a problem for users depends on how technically savvy their adversaries are , but it illustrates the difficulty of making instant deletion actually work
+the problem is that these new " ephemeral " conversations are n't really ephemeral the way a face - to - face unrecorded conversation would be
+they 're not ephemeral like a conversation during a walk in a deserted woods used to be before the invention of cell phones and gps receivers
+at best , the data is recorded , used , saved and then deliberately deleted
+at worst , the ephemeral nature is faked
+while the apps make the posts , texts or messages unavailable to users quickly , they probably do n't erase them off their systems immediately
+they certainly do n't erase them from their backup tapes , if they end up there
+the companies offering these apps might very well analyze their content and make that information available to advertisers
+we do n't know how much metadata is saved
+in @entity4 , users can see the metadata even though they ca n't see the content and what it 's used for
+and if the government demanded copies of those conversations -- either through a secret @entity125 demand or a more normal legal process involving an employer or school -- the companies would have no choice but to hand them over
+even worse , if the @entity132 or @entity125 demanded that @entity134 companies secretly store those conversations and not tell their users , breaking their promise of deletion , the companies would have no choice but to comply
+that last bit is n't just paranoia
+we know the @entity134 government has done this to companies large and small
+@entity146 was a small secure e-mail service , with an encryption system designed so that even the company had no access to users ' e-mail
+last year , the @entity125 presented it with a secret court order demanding that it turn over its master key , thereby compromising the security of every user
+@entity146 shut down its service rather than comply , but that option is n't feasible for larger companies
+in 2011 , @entity161 made some still - unknown changes to @entity163 to make @entity125 eavesdropping easier , but the security promises they advertised did n't change
+this is one of the reasons president @entity168 's announcement that he will end one particular @entity125 collection program under one particular legal authority barely begins to solve the problem : the surveillance state is so robust that anything other than a major overhaul wo n't make a difference
+of course , the typical @entity4 user does n't care whether the @entity134 government is monitoring his conversations
+he 's more concerned about his high school friends and his parents
+but if these platforms are insecure , it 's not just the @entity125 that one should worry about
+dissidents in the @entity183 and elsewhere need security , and if they rely on ephemeral apps , they need to know that their own governments are n't saving copies of their chats
+and even @entity134 high school students need to know that their photos wo n't be surreptitiously saved and used against them years later
+the need for ephemeral conversation is n't some weird privacy fetish or the exclusive purview of criminals with something to hide
+it represents a basic need for human privacy , and something every one of us had as a matter of course before the invention of microphones and recording devices
+we need ephemeral apps , but we need credible assurances from the companies that they are actually secure and credible assurances from the government that they wo n't be subverted
+the opinions expressed in this commentary are solely those of @entity213 .

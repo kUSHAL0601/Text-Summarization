@@ -1,0 +1,12 @@
+-- @entity1 has the pieces needed to build an @entity4 model that can connect to just about any cellular network
+the evidence was found under the hood of a new iphone 4 unit made for @entity9
+to work with the nonstandard infrastructure used by @entity9 , @entity1 needed to deploy a different cell chip
+the hardware company had to alter parts of the @entity4 's construction in order to make it compatible , @entity1 coo @entity12 said during the phone 's coming - out event
+while the new @entity4 will only work on @entity9 's network , the @entity21 chip @entity1 is using in these new models is capable of connecting to @entity9 's network , as well as to carriers using the gsm standard , which is what @entity27 and @entity28 have
+the finding was unearthed by repair firm @entity31 in a full dissection of a @entity4 obtained through the pre-order system
+the silicon chip in the @entity4 is the same type used in another @entity9 phone , the @entity37 the latter smartphone is designed for frequent travelers and can be used easily in most countries overseas
+but @entity1 did n't develop the first - run @entity41 in a way that lets them work internationally , despite the building blocks being there
+for one , it 's lacking the crucial sim card slot used for telling the phone which network it should connect to and what its phone number is
+@entity27 is positioning this travel - ready ability as a major competitive advantage of its iphones , and of other phones made for its network
+that @entity1 has a healthy supply of these dual - carrier chips could be a sign of an impending " universal @entity4
+" @entity62 , an analyst for @entity63 , is confident that the next @entity4 model , expected to come out this summer , will be capable of working on both @entity9 and @entity27 , along with most cell networks worldwide , he said in an interview .

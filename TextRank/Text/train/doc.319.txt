@@ -1,0 +1,31 @@
+@entity0 , @entity1 -- making sure another plane is never " lost " again is the immediate priority for the airline industry , according to @entity6 ceo of the @entity7 ( @entity7 )
+the group has set up a taskforce comprised of airlines , pilots , flight safety organizations and flight tracking and navigation service providers to try and ensure a mystery like flight mh370 is not repeated
+" we 're going to be focusing on the tracking of aircraft and not streaming of data , " said @entity6 at the group 's annual meeting , in @entity0 , @entity1 , adding that it will deliver a report in september recommending what changes airlines should take , although they wo n't be mandatory
+the streaming of data is not the focus , said @entity6 , as tracking is " the most urgent first step and can be done relatively easily
+" " there are a lot more issues that come into play when it comes into the streaming of data
+if you start having streaming from 100,000 flights a day , you 're going to end up with masses of data and that may be manageable or may be not manageable
+" currently a mix of radar , satellite and voice communications tracks aircraft
+a one - size - fits - all tracking solution might not work , cautions @entity51 , senior vice president for safety and flight operations for @entity7
+while the technology to track aircraft better is already available there is an equipment issue
+" not all aircraft are equipped the same , it 's just like an automobile , there are different options you can fit in the aircraft , so we 'll explore what options are currently onboard and see how it can be used to fill this gap
+" maybe some carriers already have what they need to start and there might be some that have absolutely nothing and have to start
+" many airline ceos have committed to improving tracking no matter the cost
+" we 're already doing quite a lot , " said @entity77 , ceo of @entity78
+" we routinely send position messages with our @entity82 messages and that 's something we 've done for many years an something we 'll continue to do
+we send @entity82 messages every 30 minutes
+" by this time next year ( the airline industry ) will have cracked this
+" @entity82 is a data link for sending messages between planes and ground facilities that was developed in the 1970s
+just five years ago @entity94 suffered a tragedy when flight af447 crashed into the @entity97 en route from @entity99 to @entity100
+the accident brought to public attention that in some locations , such as over ocean areas , the precise location of an aircraft is not known all the time
+" we do n't totally track aircraft as there are areas of the world that do n't have coverage that allow us to track them with what we would conventionally think of as a gps or some type a ping that has a geographic location , " said @entity51
+however , after the incident , the airline , independent of any industry - wide report , made changes to how its planes communicate their location and can be found in an emergency
+one was improving the battery life of the black box recorder to three months , the second concerned the frequency with which the plane communicates with land
+" flight data is now sent from the plane every 10 minutes , " said @entity133 , ceo of @entity134
+if a plane deviates from its initial flight plan we send a message every minute to our dispatch office in @entity100 ... to say that something is wrong
+so the tracking is much more accurate and we know minute by minute where the plane is
+" we have the equipment on board ; it 's a decision plus some investment to increase the frequency of the messages
+" another issue facing airlines and pilots is the question of making something tamper - proof
+manufacturers say that can mean devices that wo n't be able to be switched off in - flight
+" speaking as a former pilot myself , if i had a particular piece of kit in the cockpit and i wanted to stop it smoking or being on fire , i could disable that , " said @entity51
+" now they 're saying they want to take that away from the pilot
+so there are some diverse opinions which will be explored

@@ -1,0 +1,4 @@
+-- a 6.2 - magnitude earthquake struck the @entity3 early tuesday , the @entity1 said
+the quake 's epicenter was reported to be in @entity6 , about 360 miles south - southeast of @entity7
+the earthquake had a depth of nearly 12 miles , the @entity1 said
+there were no immediate reports of injuries or damage .
