@@ -1,16 +1,21 @@
 ### Models
 
-1. RNN_RNN
+1. SummaRunner
+<div  align="center">
+<img src="images/SummaRunner.png" width = "350" height = "350" align=center />
+</div>
+
+2. RNN_RNN
 <div  align="center">
 <img src="images/RNN_RNN.jpg" width = "350" height = "350" align=center />
 </div>
 
-2. CNN_RNN
+3. CNN_RNN
 <div  align="center">
 <img src="images/CNN_RNN.png" width = "350" height = "260" align=center />
 </div>
 
-3. Hierarchical Attention Networks
+4. Hierarchical Attention Networks
 <div  align="center">
 <img src="images/Hiarchical_Attn.png" width = "350" height = "350" align=center />
 </div>
