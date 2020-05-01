@@ -160,7 +160,7 @@ def test():
         word2id = json.load(f)
     vocab = utils.Vocab(embed, word2id)
 
-    with open(args.test_dir) as f:
+    with open(args.test_dir, encoding="mbcs") as f:
         examples = [json.loads(line) for line in f]
     test_dataset = utils.Dataset(examples)
 
@@ -206,7 +206,7 @@ def test():
             ref = summaries[doc_id]
             with open(os.path.join(args.ref,str(file_id)+'.txt'), 'w') as f:
                 f.write(ref)
-            with open(os.path.join(args.hyp,str(file_id)+'.txt'), 'w') as f:
+            with open(os.path.join(args.hyp,str(file_id)+'.txt'), 'w', encoding="mbcs") as f:
                 f.write('\n'.join(hyp))
             start = stop
             file_id = file_id + 1
