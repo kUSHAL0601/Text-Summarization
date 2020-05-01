@@ -1,6 +1,6 @@
 import networkx as nx
 from tokenizer import tokenized
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 from collections import defaultdict
 
 def ngrams(input_list,n):
@@ -78,8 +78,8 @@ for gram in tags:
 
 G = nx.Graph()
 
-plt.ion()
-plt.show()
+#plt.ion()
+#plt.show()
 
 for edge in edges_list:
     #print(edge[0][0],edge[1][0])
@@ -87,10 +87,10 @@ for edge in edges_list:
     G.add_node(edge[1])
     G.add_edge(edge[0],edge[1])
 
-nx.draw(G)
-plt.draw()
-plt.pause(0.001)
-plt.clf()
+#nx.draw(G)
+#plt.draw()
+#plt.pause(0.001)
+#plt.clf()
 
 # print(G.nodes(),G.edges())
 

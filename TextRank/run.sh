@@ -1,8 +1,5 @@
-filename="$1"
-tag_rel_path="../"$filename
-
-cd stanford-postagger-full-2015-04-20
-./stanford-postagger.sh models/english-left3words-distsim.tagger $tag_rel_path > ../tagged.txt
+cd "stpos"
+java -mx300m -classpath stanford-postagger.jar edu.stanford.nlp.tagger.maxent.MaxentTagger -model models/english-left3words-distsim.tagger -textFile "$tag_rel_path" > ../tagged.txt
 cd ..
 python3 tokenizer.py
 python3 ngrams_finder.py
